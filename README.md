@@ -3,7 +3,7 @@
 Team:<br>
 
 
-> All in Rust<br>
+> All in Rust🦀<br>
 
 
 ## Current Limitations and Considerations
